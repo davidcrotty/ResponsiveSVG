@@ -1,0 +1,18 @@
+/* line 1, ../sass/menutheme.scss */
+.menu-item {
+  height: 80px;
+  border-bottom: #d1d1d1;
+  border-bottom-style: solid;
+  border-width: 1px;
+  padding-top: 10px;
+}
+
+/* line 9, ../sass/menutheme.scss */
+.menu-item-small {
+  font-size: 70%;
+}
+
+/* line 13, ../sass/menutheme.scss */
+.menu-item:active {
+  background-color: #0080ff;
+}
